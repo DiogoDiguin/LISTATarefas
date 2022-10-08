@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1634172722 source:c:\users\836846\desktop\tarefasdiariaslista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1634601308 source:c:\users\samsung\desktop\tarefasdiariaslista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
